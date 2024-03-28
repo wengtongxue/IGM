@@ -1,0 +1,6 @@
+pass
+root
+admin
+admin123
+root123
+kali
